@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif)
 <h1 align="center">Hi 👋, I'm Aymane IMLIHI</h1>
 <h3 align="center">Full-Stack Developer passionate about crafting innovative digital solutions</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeFgG4rzRMjJhRwxXDxktcibPItP7XOGNaRQ&s">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aymaneiml&label=Profile%20views&color=0e75b6&style=flat" alt="aymaneiml" /> </p>
 
 - 💬 Ask me about **Java, Spring, Angular, MySQL, PostgreSQL, MongoDB**
