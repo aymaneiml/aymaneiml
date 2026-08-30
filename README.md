@@ -39,7 +39,7 @@
 <p align="center">
   <!-- Frontend & Backend -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,js,html,css,nodejs,express&perline=9" alt="Languages and Frameworks" />
+    <img src="https://skillicons.dev/icons?i=java,spring,python,django,angular,ts,js,html,css,nodejs,express&perline=9" alt="Languages and Frameworks" />
   </a>
 </p>
 <p align="center">
